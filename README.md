@@ -1,1 +1,1 @@
-# ipi-git-github
+# ipi-git
